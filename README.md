@@ -27,7 +27,7 @@ Files:
 | |____\___/|_|\_/_/ \_\_|_(_)___/_||_| |
 |                                       |
 |                                       |
-| Lunar Labs                            |
+| Lunar RF Labs                         |
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
