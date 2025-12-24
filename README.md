@@ -15,8 +15,8 @@ The `simulator` interface steps through a compiled binary and dumps the contents
 
 Files:
 <br/>
-* `z80.ts` - `core` implementation.
-* `main.ts` - `sim` interface.
+* `z80.ts` - `core` implementation
+* `main.ts` - `sim` interface
 
 # Signature
 
