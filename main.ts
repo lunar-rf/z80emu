@@ -21,7 +21,7 @@
  * | https://lunar.sh                      |
  * |                                       |
  * | RF Research Laboratories              |
- * | Donate XMR @ lunar.sh (OpenAlias)     |
+ * | Donate XMR @ 'lunar.sh' (OpenAlias)   |
  * | Copyright (C) 2022-2024               |
  * +---------------------------------------+
  *
